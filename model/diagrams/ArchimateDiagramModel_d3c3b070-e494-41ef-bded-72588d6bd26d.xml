@@ -1,7 +1,32 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
+    name="Specializations View "
     id="d3c3b070-e494-41ef-bded-72588d6bd26d">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d60c9172-1bd5-4092-ba42-6b3f403ce968">
+    <bounds
+        x="297"
+        y="143"
+        width="120"
+        height="86"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_12283cee-b6ab-4328-9338-0fc04168e7f9.xml#12283cee-b6ab-4328-9338-0fc04168e7f9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="848a12d9-29fb-41d0-ad8f-48e2e8f31fa3">
+    <bounds
+        x="297"
+        y="252"
+        width="120"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_2549179c-2d1e-4c59-aba9-5a27b7ad8912.xml#2549179c-2d1e-4c59-aba9-5a27b7ad8912"/>
+  </children>
   <properties
       key="must replace icons"
       value="yes"/>
