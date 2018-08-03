@@ -27,6 +27,18 @@
         xsi:type="archimate:Node"
         href="Node_2549179c-2d1e-4c59-aba9-5a27b7ad8912.xml#2549179c-2d1e-4c59-aba9-5a27b7ad8912"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="19a27a43-ada1-4d72-a1eb-b3d8be9e0545">
+    <bounds
+        x="120"
+        y="228"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_c5ca1abd-3776-45cd-8269-4b9a8cb69179.xml#c5ca1abd-3776-45cd-8269-4b9a8cb69179"/>
+  </children>
   <properties
       key="must replace icons"
       value="yes"/>
